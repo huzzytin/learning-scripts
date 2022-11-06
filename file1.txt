@@ -4,4 +4,4 @@ making changes on Nov
 ==============
 new line
 checking for updates
-how to save the file
+how to save - CTRL S
